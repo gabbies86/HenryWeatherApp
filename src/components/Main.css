@@ -1,0 +1,23 @@
+.container {
+justify-content: center;
+align-items: center;
+}
+.mainText {
+  flex: 1;
+  color: #A38BF5;
+  margin: 100px;
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 10s;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}

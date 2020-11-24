@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Taipei_Skyline_2015.jpg/1200px-Taipei_Skyline_2015.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 768px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}

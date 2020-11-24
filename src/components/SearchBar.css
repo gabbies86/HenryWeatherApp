@@ -1,0 +1,29 @@
+
+.input {
+  color:grey;
+  background-color: transparent;
+  border-bottom-color: violet;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-radius: 5px;
+  border-bottom-width: 2px;
+  display:inline-block;
+}
+.arrow {
+  background-color: transparent;
+  border-color: transparent;
+  color: pink;
+  font-size: 16px;
+  display:inline-block;
+}
+.text {
+  color: #734EF3;
+  font-weight: bold;
+  display:inline-block;
+}
+.arrow:hover{
+  color: #A38BF5;
+  transform: translateY(-6px);
+  display:inline-block;
+}

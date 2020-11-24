@@ -1,0 +1,37 @@
+.navbar {
+  height: 100px;
+  width: 1366px;
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  opacity: 0.7;
+}
+.brand {
+  color: white;
+  font-size: 40px;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  display:inline-block;
+  justify-content: flex-end;
+  margin-right: 100px;
+}
+.brand:hover{
+  color: #A38BF5;
+  transform: translateY(-6px);
+}
+.logoHenry {
+  margin-right: 20px;
+}
+.brand:hover {
+  color: #F5EF8B;
+  text-decoration: none;
+}
+.text {
+  color: #734EF3;
+  font-weight: bold;
+  display:inline-block;
+  margin-right: 100px
+}
+.text:hover{
+  color: #A38BF5;
+  transform: translateY(-6px);
+}

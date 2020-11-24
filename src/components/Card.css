@@ -1,0 +1,28 @@
+.card {
+  margin: 20px;
+  width: 18rem;
+  border-radius: 80px;
+  background: radial-gradient(circle, rgba(2,51,61,1) 0%, rgba(7,7,69,1) 100%);
+  opacity: 0.5
+}
+.closeIcon{
+  justify-content: flex-end;
+  border-color: transparent;
+  background-color: transparent;
+  color: red;
+  font-weight: bold;
+  margin-top: 8px;
+}
+.card-title {
+  margin-bottom: 15px;
+  display:inline-block;
+}
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+.row {
+  color: #E7EFFB;
+}
+.iconoClima {
+}

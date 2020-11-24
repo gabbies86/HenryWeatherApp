@@ -1,0 +1,13 @@
+.ciudad{
+  margin: 20px;
+  background-color: black;
+  opacity: 0.5;
+  padding: 50px;
+  color: red;
+  font-weight: bold;
+  border-radius: 40px;
+}
+.info{
+color:white;
+text-align: justify;
+}

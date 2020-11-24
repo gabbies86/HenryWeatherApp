@@ -1,0 +1,28 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+  padding: 20px;
+  padding-top: 90px;
+  width: 365px;
+  height: 365px;
+  background-image: url("https://cdnbitmaps.clima.com/images/content/clima/countrys/country_usa.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aboutText{
+  color: #202020;
+  font-weight: bold;
+}
+.sign {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.icon {
+  flex-direction: row;
+  display:inline-block;
+  color: white;
+  font-weight: bold;
+  align-items: flex-end
+}
