@@ -1,5 +1,7 @@
-## Henry Weather
+#### Instalamos
+hacemos
 
+npm install
 
 ### Primero instalar
 ```
